@@ -1,3 +1,21 @@
 name: EssentialPlug
-main: ru.pr0stik.Main
+main: ru.pr0stik.MainClass
 version: 0.1
+
+commands:
+      food:
+         usage: /food
+      heal:
+         usage: /heal
+      tp:
+         usage: /tp
+      ignite:
+         usage: /ignite
+      hat:
+         usage: /hat
+      sethome:
+         usage: /sethome
+      home:
+         usage: /home
+      fly:
+         usage: /fly
